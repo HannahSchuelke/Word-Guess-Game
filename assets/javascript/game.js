@@ -1,42 +1,42 @@
 var mnHangman = {
 
     possibilities: {
-        Cherry: {
+        "cherry": {
             hint1: "This sculpture was erected in 1985 by artist Claes Oldenburg and his wife, Coosje van Bruggen.",
             hint2: "Was vandalized in 2012 as part of a “Kony 2012” protest.",
             hint3: "Resides in the largest urban sculpture park in the world.",
         },
-        Walker: {
+        "walker": {
             hint1: "In 1879, lumber baron Thomas Barlow ****** started this museum by building a room out of his home.",
             hint2: "The museum’s focus on modern art began in the 1940s.",
             hint3: "Is free to the public on Thursday evenings.",
         },
-        mia: {
+        "mia": {
             hint1: "Designed by the New York architectural firm, the original building opened its doors in 1915.",
             hint2: "Mission: The *** enriches the community by collecting, preserving, and making accessible outstanding works of art from the world’s diverse cultures.",
             hint3: "Is a free museum, operated for the benefit of the general public.",
         },
-        umn: {
+        "umn": {
             hint1: "This place of learning invented seatbelts, the pacemaker, and the honeycrisp apple.",
             hint2: "This was a university before Minnesota was a state",
             hint3: "The flagship campus in the Twin Cities is one of the most prestigious public research universities in the nation.",
         },
-        Prince: {
+        "prince": {
             hint1: "This artist grew up in North Minneapolis and the house still stands.",
             hint2: "This artist can be seen in a mural downtown, on 5th & Hennepin Ave South.",
             hint3: "His estate and production complex is named Paisley Park.",
         },
-        Dylan: {
+        "dylan": {
             hint1: "This artist became involved in the Dinkytown folk music circuit after he moved to Minneapolis for school.",
             hint2: "His most popular work became anthems for the Civil Rights Movement and anti-war movement of the 1960s. ",
             hint3: "He can be seen in a mural downtown, on 5th & Hennepin Ave South.",
         },
-        Calhoun: {
+        "calhoun": {
             hint1: "In 2018, this lake's name changed to Bde Maka Ska.",
             hint2: "From 1829-1839, it was the site of the Bdewákhathuŋwaŋ Dakota agricultural village known as Ḣeyate Otuŋwe.",
             hint3: "This is the largest lake in Minneapolis.",
         },
-        Guthrie: {
+        "guthrie": {
             hint1: "This theater is located off of the Mississippi River.",
             hint2: "The theater opened on May 7, 1963, with a production of Hamlet directed by the theater’s founder.",
             hint3: "The building features an 178-foot cantilevered bridge, which is open and free to the public.",
